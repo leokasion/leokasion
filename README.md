@@ -19,7 +19,7 @@ Punished sysadmin & programmer, Docker enthusiast. I live in Argentina.
 | **ldapdock** | ![Build](https://github.com/leokasion/ldapdock/actions/workflows/docker-build.yml/badge.svg) | Automated Debian 12 + OpenLDAP + PHP. |
 | **2FA-Lite** | [![Docker Push](https://github.com/leokasion/2FA-Lite/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/leokasion/2FA-Lite/actions) ![Type](https://img.shields.io/badge/type-stateless--microservice-blue.svg)| Lightweight, stateless TOTP microservice for 2FA. |
 ---
-### Recent Projects
+### System Daemons & Infrastructure
 | Project | Status | Description |
 | :--- | :--- | :--- |
 | **pulse-sentinel** | ![Status](https://img.shields.io/badge/status-stable-darkgreen.svg) ![Escalation](https://img.shields.io/badge/Escalation-3%2F6%2F9m-blueviolet) | Unified IMAP heartbeat daemon with state-aware 3/6/9m escalation. |
