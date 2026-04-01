@@ -15,9 +15,11 @@ Punished sysadmin & programmer, Docker enthusiast. I live in Argentina.
 ### Live Projects (CI/CD Automated)
 | Project | Status | Description |
 | :--- | :--- | :--- |
-| **Transformo** | ![Build](https://github.com/leokasion/transformo/actions/workflows/docker-build.yml/badge.svg) | Multi-service Web/Worker Docker system. |
+| **transformo** | ![Build](https://github.com/leokasion/transformo/actions/workflows/docker-build.yml/badge.svg) | Multi-service Web/Worker Docker system. |
 | **ldapdock** | ![Build](https://github.com/leokasion/ldapdock/actions/workflows/docker-build.yml/badge.svg) | Automated Debian 12 + OpenLDAP + PHP. |
 | 2FA-Lite | [![Docker Push](https://github.com/leokasion/2FA-Lite/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/leokasion/2FA-Lite/actions) | Lightweight, stateless TOTP microservice for 2FA. |
+| **pulse-sentinel** | ![Status](https://img.shields.io/badge/status-production--ready-darkgreen.svg) | Unified IMAP heartbeat daemon with state-aware 3/6/9m escalation. |
+
 ---
 
 ### Support My Work
