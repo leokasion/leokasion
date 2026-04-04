@@ -10,12 +10,17 @@ Punished sysadmin & programmer, Docker enthusiast. I live in Argentina.
   <img src="https://github-readme-stats.vercel.app/api?username=leokasion&show_icons=true&theme=tokyonight" alt="Leandro's stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokasion&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
--->
+
 <p align="left">
   <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leokasion&theme=solarized_dark" alt="Leandro's stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leokasion&theme=solarized_dark" alt="Top Langs" />
 </p>
+</p>
+-->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leokasion&theme=aura_dark" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leokasion&theme=aura_dark" alt="Repos Card" />
 </p>
 ---
 
