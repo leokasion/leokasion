@@ -35,8 +35,8 @@ Punished sysadmin & programmer, Docker enthusiast. I live in Argentina.
 ### System Daemons & Infrastructure
 | Project | Status | Description |
 | :--- | :--- | :--- |
-| **pulse-sentinel** | ![Status](https://img.shields.io/badge/status-stable-darkgreen.svg) ![Escalation](https://img.shields.io/badge/Escalation-3%2F6%2F9m-blueviolet) | Unified IMAP heartbeat daemon with state-aware 3/6/9m escalation. |
-| **pwatcherd** | ![Status](https://img.shields.io/badge/status-stable-darkgreen.svg) ![Engine](https://img.shields.io/badge/Vim-019733?&logo=vim&logoColor=white) | Minimalist C daemon for TCP port-state monitoring with zero-dependency kernel polling. |
+| <a href="https://github.com/leokasion/pulse-sentinel">**pulse-sentinel**</a> | ![Status](https://img.shields.io/badge/status-stable-darkgreen.svg) ![Escalation](https://img.shields.io/badge/Escalation-3%2F6%2F9m-blueviolet) | Unified IMAP heartbeat daemon with state-aware 3/6/9m escalation. |
+| <a href="https://github.com/leokasion/pwatcherd">**pwatcherd**</a> | ![Status](https://img.shields.io/badge/status-stable-darkgreen.svg) ![Engine](https://img.shields.io/badge/Vim-019733?&logo=vim&logoColor=white) | Minimalist C daemon for TCP port-state monitoring with zero-dependency kernel polling. |
 ---
 
 ### Support My Work
