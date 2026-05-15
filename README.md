@@ -31,6 +31,9 @@ Punished sysadmin & programmer, Docker enthusiast. I live in Argentina.
 | <a href="https://github.com/leokasion/ldapdock">**ldapdock**</a> | ![Build](https://github.com/leokasion/ldapdock/actions/workflows/docker-build.yml/badge.svg) | Automated Debian 12 + OpenLDAP + PHP. |
 | <a href="https://github.com/leokasion/2FA-lite">**2FA-Lite**</a> | [![Docker Push](https://github.com/leokasion/2FA-Lite/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/leokasion/2FA-Lite/actions) ![Type](https://img.shields.io/badge/type-stateless--microservice-blue.svg)| Lightweight, stateless TOTP microservice for 2FA. |
 | <a href="https://github.com/leokasion/BunkerLaravel">**BunkerLaravel**</a> | ![Build](https://github.com/leokasion/BunkerLaravel/actions/workflows/docker-publish.yml/badge.svg) | Hardened LAMP + zero dependency Laravel with automated SSL. |
+| <a href="https://github.com/leokasion/RDS-launchpad">**RDS-launchpad**</a> | ![Status](https://img.shields.io/badge/status-stable-darkgreen.svg) ![Engine](https://img.shields.io/badge/Vim-019733?&logo=vim&logoColor=white) | Automated, dependency-free AWS RDS PostgreSQL real-time environment creation with DNS endpoint extraction  |
+
+
 ---
 ### System Daemons & Infrastructure
 | Project | Status | Description |
@@ -57,11 +60,12 @@ Punished sysadmin & programmer, Docker enthusiast. I live in Argentina.
 
 ### Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go Powered](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+<!--![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)-->
+
